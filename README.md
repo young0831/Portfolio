@@ -1,6 +1,6 @@
 <!-- 상단 배너 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Junyeong👋;Welcome My Portfolio Repo" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Junyeong👋;Welcome+My+Portfolio+Repo" alt="Typing SVG"/>
 </p>
 
 ---
