@@ -9,9 +9,9 @@
 - 🎓 대구대학교, 전자전기공학부(전자공학전공) 졸업
 - 💻 C, Python, Verilog | 임베디드 시스템 | ROS2
 - 🤖 컴퓨터 비전: YOLOv8, OpenCV 활용 프로젝트 다수 수행
-- 🌱 현재 공부 중: STM32, 리눅스 디바이스 드라이버, Q#
-- 📫 이메일: your.email@example.com  
-- ⚡ 취미: 밴드 드럼 연주, 버스킹, 자전거 라이딩
+- 🌱 현재 공부 중: STM32, 리눅스 디바이스 드라이버
+- 📫 이메일: wnsdud990831@naver.com  
+- ⚡ 취미: 축구, 탁구, 당구, 산책, 볼링
 
 ---
 
@@ -49,7 +49,7 @@
 ---
 
 ## 📫 Contact Me
-- ✉️ Email: your.email@example.com  
+- ✉️ Email: wnsdud990831@naver.com 
 - 💬 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
