@@ -6,8 +6,8 @@
 ---
 
 ## 🔭 About Me
-- 🎓 전기공학 전공, 3학년 재학 중
-- 💻 FPGA & Verilog | 임베디드 시스템 | ROS2
+- 🎓 대구대학교, 전자전기공학부(전자공학전공) 졸업
+- 💻 C, Python, Verilog | 임베디드 시스템 | ROS2
 - 🤖 컴퓨터 비전: YOLOv8, OpenCV 활용 프로젝트 다수 수행
 - 🌱 현재 공부 중: STM32, 리눅스 디바이스 드라이버, Q#
 - 📫 이메일: your.email@example.com  
